@@ -1,4 +1,4 @@
-# animated_sidebar
+# Animated Sidebar
 
 A new Flutter project.
 
