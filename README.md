@@ -6,7 +6,7 @@ An advanced drawer widget, that can be fully customized with size, text, color, 
 **Link**: [flutter_advanced_drawer](https://pub.dev/packages/flutter_advanced_drawer)
 
 <p align = "center">
-<img src="/images/drawer_open.png" width="235"> <img src="/images/drawer_close.png" width="235"> <img src="/images/recording.gif" width="250">
+ <img src="/images/drawer_close.png" width="235"> <img src="/images/drawer_open.png" width="235"> <img src="/images/recording.gif" width="250">
 </p>
 
 ## Getting Started
